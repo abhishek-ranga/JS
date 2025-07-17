@@ -1,3 +1,4 @@
+// node 01_basics/02_datatypes.js
 "use strict"; // treat all JS code as newer version
 // alert("hello") // we are using nodejs not browser
 

@@ -1,3 +1,4 @@
+// node 01_basics/01_variables.js
 const accountId = 177013
 let accountEmail = "abhishek-ranga@github.com"
 var accountPassword = "12345"
